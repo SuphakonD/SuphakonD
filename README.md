@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded Engineer
 ----------------
 
-I've been Sleeping and do nothing for 5 years
+I've been Sleeping and do nothing for 5 years.
 
 * 🌍  I'm based in Ransgit
 * ✉️  You can contact me at [stgtar@protonmail.com](mailto:stgtar@protonmail.com)
