@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suphakon Mingoen
 ========================================================================================================================================
 
-Edge Computing
+Embedded Engineer
 ----------------
 
 I've been Sleeping and do nothing for 5 years
